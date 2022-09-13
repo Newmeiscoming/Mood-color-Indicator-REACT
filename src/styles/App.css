@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#mood-indicator{
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+#select{
+    width: 130px;
+    height: 30px;
+    padding-left: 30px;
+    background-color: antiquewhite;
+    color: teal;
+    border-radius: 55px;
+    font-size: 20px;
+}
